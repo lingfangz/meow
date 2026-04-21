@@ -1,0 +1,6 @@
+# Lark exports — never commit company internal content
+.lark-data/
+*.lark.md
+okr*.md
+messages*.md
+at_me*.md
