@@ -7,7 +7,8 @@
 
 ## 1. 基础身份
 
-- **Name**:
+- **Name**: 张灵芳 (Jennifer)
+- **Lark open_id**: `ou_69744afd8a6849f031388f2891f99b55`
 - **Title / Role**:
 - **Team / Org**:
 - **汇报对象（直属老板）**:
